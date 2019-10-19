@@ -1,11 +1,12 @@
 * {
   margin:0px;
   padding:0px;
+  background-color: gold;
 }
 
 #octocat {
   display: block;
-  width:384px;
+  width: 400px;
   margin: 50px auto;
 }
 
